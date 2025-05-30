@@ -6,7 +6,7 @@ This project detects hate speech in tweets using machine learning classification
 
 ```
 HateSpeechML/
-├── HateSpeechDetection_CLEAN.ipynb   
+├── HateSpeechDetection.ipynb   
 ├── twitter.csv                       
 └── requirements.txt                  
 ```
